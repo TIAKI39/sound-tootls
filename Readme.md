@@ -31,7 +31,7 @@ Python 3,10（推奨）
 
 ## インストール手順
 
-git clone https://github.com/あなたのユーザー名/arc-volume-adjuster.git
+git clone https://github.com/あなたのユーザー名/sound-tootls.git
 cd arc-volume-adjuster
 
 ---
